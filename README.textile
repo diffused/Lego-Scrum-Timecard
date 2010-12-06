@@ -1,0 +1,9 @@
+<h1>Lego Scrum Timecard</h1>
+
+<h2>Why?</h2>
+<p>To make time keeping quick and easy, and possibly in a drunken stupor, members of <a href="http://devfu.com">DevFu</a> [ devfu.com ] wandered in to a Lego store and put together the Lego Scrum Timecard. I learned this from them.</p>
+<p>The idea is to build your timecard with short lego pieces in 15 and 25 minute increments, one board per day, and then at the end of your week add up your hours.</p>
+
+<p>Each color on the board can represent a project, or they can represent the traditional black (or clear in this case) box, red box, green box scenario. It's up to you and your process to decide this. Feel free to use as many colors and sizes as you want, as long as they fit your way of thinking.</p>
+
+<p><strong>Hell! Go three dimensional if you want!</strong></p>
